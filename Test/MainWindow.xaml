@@ -8,7 +8,7 @@
         Title="Test Navigate" Height="450" Width="800"
         ResizeMode="NoResize">
     <Border Margin="5"  >
-        <StackPanel  Background="White" >
+        <StackPanel  Background="Black" >
         <Grid >
             <Grid.ColumnDefinitions>
                     <ColumnDefinition Width="*"/>
